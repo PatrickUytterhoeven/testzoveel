@@ -1,0 +1,14 @@
+---
+title: test1
+author: pp
+date: '2022-07-12'
+slug: []
+categories: []
+tags: []
+---
+#   ddddd
+
+```{r, echo=FALSE, out.width="50%", fig.cap="Dagelijks"}
+knitr::include_graphics("1884057.jpg")
+```
+
