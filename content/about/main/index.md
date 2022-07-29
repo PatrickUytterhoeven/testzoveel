@@ -1,35 +1,43 @@
 ---
 ## Configure page content in wide column
 title: "Waarom AKRON" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
+number_featured: 0 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
+
 intro: |
-    Akron gaat over mijn passie voor het begeleiden van lokale besturen en organisaties. Al meer dan 20 jaar doe ik coaching, verandertrajecten en soortgelijke projecten.  Over de jaren heen heb ik geleerd dat je als begeleider of coach best bescheiden blijft. Ik heb namelijk evenveel geleerd van de organisaties waarin ik actief was als zij (hopelijk) van mij. Het zijn soms moeilijke zoektochten, met twijfels en onzekerheden. 
+ Goed dat je hier langskomt!
+ 
+ Jouw organisatie en je medewerkers zoeken misschien de juiste coach of ondersteuning. Misschien heb je een aantal verbetertrajecten doorlopen, die dan toch niet zo succesvol bleken te zijn. Misschien zoek je naar betere rails of een totaal ander spoor. Misschien heb je de indruk dat meer kan dan nu mogelijk is.
+ 
+ Mogelijk kan ik dan iets voor jou betekenen.
+ 
+ Al meer dan twintig jaar begeleid ik steden, gemeenten en organisaties om hun werking te verbeteren en te ondersteunen. Veelal heb ik dat in opdracht gedaan van andere organisaties, in onderaanneming dus. Dat was voor mij een gemak, omdat ik dan opdrachten op een schoteltje kreeg. Maar veelal bleef ik zelf op een honger zitten omdat ik niet het ding kon doen waardoor de klant echt geholpen werd. Vele organisaties werken doorgaans met standaardoplossingen die rechtstreeks komen uit de gereedschapskist. Al die gereedschapskisten zien er zowat hetzelfde uit. Een beetje materiaal monteren, zorgen dat je niet teveel brokken maakt en dat is het dan. Erg traditioneel dus. Onvoldoende creatief, zo blijkt maar al te vaak. Onvoldoende durf ook.
+ 
+ Dat wil ik graag anders.
+ 
+ Ik heb in mijn toverdoos alleszins ingrediënten die voor jou nuttig zijn:
+ - Ik heb als interimmanager diverse diensten van steden en gemeenten ondersteund
+ - Ik ben hoogopgeleid (met drie universitaire diploma's)
+ - Ik heb tien jaar lang in een directiefunctie een concern aangestuurd als algemeen directeur
+ - Ik ben ex-directeur van een investeringsfonds en kan dus als geen ander de brug maken van het financiële naar het operationele en omgekeerd
+ 
+ Soms voel ik mij alchemist. Uit de vele ingrediënten distilleer ik een nieuwe structuur, een nieuw dna en dan blijkt dat niet altijd te werken. In plaats van goud kreeg ik lood. Met de hulp van teamleden uit de organisaties schrijven we dan nieuwe toverformules uit, totdat er uiteindelijk - soms toevallig - iets mooi uitkomt dat aanspreekt. Samenwerken en - denken leidt tot 1+1 >2.
+ 
+ Regelmatig organiseer ik ook opleidingen en cursussen. Tot voor kort was ik docent aan een hogeschool.
+ 
+ Ik hou van uitdagingen en creëer graag in een wervende  rol meerwaarde voor U en uw organisatie. In deze website vind je een aantal bouwstenen terug, maar aarzel niet om vragen te stellen.
+ 
+ 
+ 
+ 
 
-    Soms voel ik mij **alchemist**. Uit de vele ingrediënten distilleer ik een nieuwe structuur, een nieuw dna en dan blijkt dat niet altijd te werken. In plaats van goud kreeg ik lood. Met de hulp van teamleden uit de organisaties schrijven we dan nieuwe toverformules uit, totdat er uiteindelijk - soms toevallig - iets mooi uitkomt dat aanspreekt. 
-
-    Meestal is het een tocht van samenzoeken. 
-
-    Soms voel ik mij manusje van alles. Je krijgt plots onverwachte problemen op je bord, tegenslagen, donderwolken, mistbanken en dan is het zaak om met iedereen het juiste pad te vinden. Dan moet je dikwijls op een minuut tijd de specialist worden in terreinen die je nooit eerder hebt verkend. En faken is niet mijn sterke kant. 
-
-     Soms voel ik mij een geluksvogel. Want in al die lokale besturen heb ik zovele medewerkers, managers, arbeiders ontmoet die echt iets te vertellen hebben. Het cliché dat openbare besturen niet het voorbeeld zijn van naarstig werken wil ik met klem ontkennen. Ik werk ook met bedrijven. Vroeger was ik  begeleider in het Plato project en als coach heb ik meer dan honderd bedrijven bijgestaan in operationele en financiële elementen. Ik werk liever met KMO's dan met mastadonten. Het directe contact vind ik belangrijk. 
-
-    Dus stel ik me graag open om samen met jullie te zoeken naar het elixir om je organisatie te verbeteren. Waarom zou je met mij samenwerken? Mogelijk zijn dit redenen:
-
-    - Ik ben hoogopgeleid met drie universitaire diploma's
-    - Ik ben bijzonder communicatief en kan goed luisteren (ja, dat laatste is altijd belangrijk)
-    - Ik ben bescheiden en dring mijn mening nooit op, maar zodra de tijd rijp is, aarzel ik niet om de juiste lijnen te trekken en recht naar doel te stappen
-    - Ik heb echt wel ervaring in coachen en verandertrajecten. Ja, daar ben ik best fier op.
-    - Ik kan naast coachen ook zeer goed programmeren. Ik ben thuis in R, datascience en Business Intelligence. 
-    - Ik heb een jarenlange ervaring in de financiële sector en kan als geen ander de brug maken van het financiële naar het operationele en omgekeerd
-    
-    Maar bovenal ben ik mens, die met vallen en opstaan de kronkelende weg van het leven bewandelt. Wandelen en joggen zijn passies, schrijven en muziek spelen eveneens. Kunst combineren met het leven als consultant. (Ja, dat laatste woord gebruik ik niet graag).
-
-    Laat je inspireren en neem contact. Ik heb op deze site wat productfiches bij elkaar gebracht, wat inspiratie om met jou en je organisatie samen te werken. Ik werk ook veel samen met andere organisaties
+show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Leuke tekst
+  <i class="fas fa-glass-cheers pr2"></i>Let's work together
+
+ 
 ---
 
 ** index doesn't contain a body, just front matter above.
