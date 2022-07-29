@@ -8,7 +8,7 @@ audio_link_label: "" # leave blank to exclude
 link_list_label: "Scope" # bookmarks, elsewhere, etc.
 link_list:
 - name: Interimmanagement
-  url: https://apero1.netlify.app/content/contact
+  url: https://apero1.netlify.app/contact/
  
 - name: Organisatiestructuren
 
